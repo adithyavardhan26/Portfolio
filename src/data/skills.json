@@ -1,0 +1,37 @@
+[
+  
+  {
+    "title": "React.JS",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/icons8-javascript-48.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/icons8-java-50.png"
+  },
+  {
+    "title": "Node.JS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express.JS",
+    "imageSrc": "skills/1686391647921.png"
+  }
+]
+

@@ -1,0 +1,11 @@
+[
+  {
+    "role": "Front-End",
+    "organisation": "PU CODEHACKATHON",
+    "startDate": "14 Mar 2024",
+    "endDate": "15 Mar 2024",
+    "experiences": ["Worked on Online E-VOTING", "Basically an online pollingboot where electrorates can caste there vote online."],
+    "imageSrc": "history/experience.png"
+  }
+ 
+]

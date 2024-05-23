@@ -1,0 +1,44 @@
+[
+  {
+    "title": "On-road Vehicale Breakdown Assistance",
+    "description": "This application is useful for travellers and emergencie situations. where mechanic provide service to the customer",
+    "imageSrc": "skills/download.jpg",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "Javascript",
+      "MongoDB"
+    ],
+    "category": "web app",
+    "github": "",
+    "webapp": ""
+  },
+  {
+    "title": "BiteBuddy",
+    "imageSrc": "skills/maxresdefault.jpg",
+    "description": "Developed a comprehensive food delivery website designed to enhance the user experience with streamlined functionality and modern aesthetics.",
+    "skills": [
+      "React",
+      "API",
+      "Node",
+      "Javascript",
+      "Express",
+      "MongoDB"
+    ]
+
+  },
+  {
+    "title": "Live Weather",
+    "imageSrc": "skills/weather.jpg",
+    "description": "Developed a responsive and interactive live weather website designed to provide users with real-time weather updates and forecasts.",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "API",
+      "Javascript"
+    ]
+  }
+  
+]
